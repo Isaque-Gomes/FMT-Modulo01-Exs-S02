@@ -12,7 +12,7 @@ namespace Ex04_S02
 
         static Guitarra()
         {
-            Afinacao = "sol";
+            Afinacao = "Sol";
         }
 
         private static void TomAfinado()
